@@ -4,9 +4,7 @@ Shiny app using a fine tuned resnet50 model (deep learning) to predict dog breed
 
 The app achieves an 89.5% accuracy on a validation set consisting of 20% of the data.
 
-The original data can be downloaded [here](http://vision.stanford.edu/aditya86/ImageNetDogs/) 
-
-This app will be deployed on [shinyapps.io](https://www.shinyapps.io) when it allows the usage of python3.
+The training data can be downloaded [here](http://vision.stanford.edu/aditya86/ImageNetDogs/) 
 
 ![](www/app_gif.gif)
 
