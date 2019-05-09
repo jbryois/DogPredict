@@ -20,5 +20,7 @@ Install the necessary R packages:
 
 Then run the following code in R. Don't forget to replace "/anaconda3/bin/python" with your path to python3 
 
-```reticulate::virtualenv_create(envname = "DogPredict", python= "/anaconda3/bin/python")
-reticulate::virtualenv_install("DogPredict", packages = c('torchvision','fastai'))```
+```
+reticulate::virtualenv_create(envname = "DogPredict", python= "/anaconda3/bin/python")
+reticulate::virtualenv_install("DogPredict", packages = c('torchvision','fastai'))
+```
